@@ -88,5 +88,5 @@ public:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/azka-azhar/azka-azhar/blob/output/github-contribution-grid-snake.svg" />
+ <img src="https://raw.githubusercontent.com/azka-azhar/azka-azhar/output/github-contribution-grid-snake.svg" />" 
 </p>
