@@ -1,17 +1,23 @@
-```md
-<h1 align="center">✨ Hi 👋, I'm Azka Azhar ✨</h1>
+
+<!-- 🌊 WAVE TOP -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Azka%20Azhar&fontSize=40&fontAlignY=35&animation=fadeIn" />
+
+<!-- 👋 INTRO -->
+<h1 align="center">Hi 👋, I'm Azka Azhar</h1>
+
+<!-- ✨ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+cool+things+with+code+✨;Computer+Engineering+Student;C%2B%2B+Developer&center=true&width=500&height=50">
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;C%2B%2B+Developer;Building+Real+Projects;Future+AI+Engineer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+cool+things+with+code+✨;Computer+Engineering+Student;C%2B%2B+Developer;Future+AI+Engineer&center=true&width=500&height=50&color=8A2BE2&size=25">
 </p>
 
----
+<!-- 🌈 GRADIENT LINE -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750296-2e4b4f7b-43b1-4b63-9c1a-9bbd9b2cfcf6.gif" width="500"/>
+</p>
 
 ## 👩‍💻 About Me
 
-
+```cpp
 class Azka {
 public:
     string role = "Computer Engineering Student";
