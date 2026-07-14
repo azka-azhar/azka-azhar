@@ -37,9 +37,11 @@ public:
     }
 };
 ```
+
 ## 🚀 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,git,github,vscode" /> 
 </p>
+
 ## 📊 GitHub Stats
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=azka-azhar&show_icons=true&theme=tokyonight" /> 
@@ -48,7 +50,8 @@ public:
 </p> 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=azka-azhar&theme=tokyo-night" />
 </p>
-## 🚀 Featured Projects
+
+## 🚀 Projects
 
 | Project | Description |
 |--------|------------|
@@ -67,4 +70,4 @@ public:
   <a href="https://linkedin.com/in/azka-azhar-35a425244"> <img src="https://skillicons.dev/icons?i=linkedin" /> 
   </a> 
 </p>
-```
+
