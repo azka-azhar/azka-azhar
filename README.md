@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 
-```cpp
+
 class Azka {
 public:
     string role = "Computer Engineering Student";
