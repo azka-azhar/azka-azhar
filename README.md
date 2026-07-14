@@ -1,6 +1,8 @@
 ```md
-<h1 align="center">Hi 👋, I'm Azka</h1>
-
+<h1 align="center">✨ Hi 👋, I'm Azka Azhar ✨</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+cool+things+with+code+✨;Computer+Engineering+Student;C%2B%2B+Developer&center=true&width=500&height=50">
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;C%2B%2B+Developer;Building+Real+Projects;Future+AI+Engineer&center=true&width=500&height=50">
 </p>
