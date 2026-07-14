@@ -43,12 +43,17 @@ public:
 </p>
 
 ## 📊 GitHub Stats
-<p align="center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azka-azhar&show_icons=true&theme=tokyonight" /> 
-</p>
+
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=azka-azhar&theme=tokyonight" /> 
 </p> 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=azka-azhar&theme=tokyo-night" />
+</p>
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=azka-azhar&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ## 🚀 Projects
@@ -60,6 +65,14 @@ public:
 | [🌦 Weather App](https://github.com/azka-azhar/Weather_App) | Python-based GUI application that fetches real-time weather data using API integration |
 | [🎮 Whack-A-Mole Game](https://github.com/azka-azhar/WhackAMoleGame) | Fun interactive game with timers, animations, hit detection, and real-time score tracking using C# |
 
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms  
+- Backend Development  
+- System Design Basics
+  
 ## 🎯 Goals
 - Improve DSA & problem solving
 - Build strong portfolio projects
@@ -70,4 +83,10 @@ public:
   <a href="https://linkedin.com/in/azka-azhar-35a425244"> <img src="https://skillicons.dev/icons?i=linkedin" /> 
   </a> 
 </p>
+---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/azka-azhar/azka-azhar/blob/output/github-contribution-grid-snake.svg" />
+</p>
