@@ -26,8 +26,9 @@ public:
     vector<string> skills = {
         "C++",
         "C",
+        "C#",
         "Problem Solving",
-        "Python (basic)",
+        "Python",
         "UI/UX"
     };
 
