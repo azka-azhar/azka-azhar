@@ -77,7 +77,8 @@ public:
 - Start freelancing professionally
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/azka-azhar-35a425244"> <img src="https://skillicons.dev/icons?i=linkedin" /> 
+  <a href="https://linkedin.com/in/azka-azhar-35a425244">
+    <img src="https://skillicons.dev/icons?i=linkedin" /> 
   </a> 
 </p>
 ---
