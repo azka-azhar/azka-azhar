@@ -30,6 +30,7 @@ public:
         "Problem Solving",
         "Python",
         "UI/UX"
+        "Git/GitHub"
     };
 
     void goals() {
