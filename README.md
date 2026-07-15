@@ -58,7 +58,7 @@ public:
 | Project | Description |
 |--------|------------|
 | [🍽️ Restaurant Management System](https://github.com/azka-azhar/Restaurant_Management_System) | OOP-based system in C++ with file handling, enabling efficient management of books, users, and records |
-| [❌⭕ Tic Tac Toe](https://github.com/azka-azhar/Tic-Tac-Toe) | Interactive desktop game built using C# Windows Forms with a clean GUI and game logic implementation |
+| [❌⭕ Tic Tac Toe](https://github.com/Alishba964/Tic-Tac-Toe) | Interactive desktop game built using C# Windows Forms with a clean GUI and game logic implementation |
 | [🌦 Weather App](https://github.com/azka-azhar/Weather_App) | Python-based GUI application that fetches real-time weather data using API integration |
 | [🎮 Whack-A-Mole Game](https://github.com/azka-azhar/WhackAMoleGame) | Fun interactive game with timers, animations, hit detection, and real-time score tracking using C# |
 
