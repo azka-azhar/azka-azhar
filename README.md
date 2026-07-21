@@ -46,8 +46,9 @@ public:
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=azka-azhar&theme=tokyonight" /> 
-</p> 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=azka-azhar&theme=tokyonight" />
+</p>
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=azka-azhar&theme=tokyo-night" />
 </p>
 ---
